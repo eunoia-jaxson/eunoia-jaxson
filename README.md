@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=500&height=250&section=header&text=EUNOIA-JASON&desc=JinseoKim's%20github&fontSize=90&descAlign=75&descAlignY=65)
 
 ### 🌈 Welcome to EUNOIA-JASON 👋
-🌱 I’m currently interested in `Front-End`, `ReactJS`
-🥅 2023 Goals : Build my own Service `Drop the Ball`
-⚡ Fun fact: I love solving Rubik's cubes and have a computer literacy level of 1.
+- 🌱 I’m currently interested in `Front-End`, `ReactJS`
+- 🥅 2023 Goals : Build my own Service `Drop the Ball`
+- ⚡ Fun fact: I love solving Rubik's cubes and have a computer literacy level of 1.
 
 <div style="display: flex; width: 100%; justify-content: space-between;">
 <a href="https://github.com/eunoia-jason"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=eunoia-jason&show_icons=true&include_all_commits=true&theme=holi&hide_border=true" alt="eunoia-jason's github stats" /></a>
