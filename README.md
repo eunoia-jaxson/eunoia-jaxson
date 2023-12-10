@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/REACTJS-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/VITE-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATTER.JS-4B5562?style=flat-square&logo=Matter.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
