@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=500&height=250&section=header&text=eunoia-jason&desc=JinseoKim's%20github&fontSize=90&descAlign=75&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=500&height=250&section=header&text=EUNOIA-JASON&desc=JinseoKim's%20github&fontSize=90&descAlign=75&descAlignY=65)
 
 <div style="display: flex; width: 100%; justify-content: space-between;">
 <a href="https://github.com/eunoia-jason"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=eunoia-jason&show_icons=true&include_all_commits=true&theme=holi&hide_border=true" alt="eunoia-jason's github stats" /></a>
@@ -20,3 +20,15 @@
 <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+
+### Connect with me:
+
+[<img align="left" alt="eunoia-jason | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
+[<img align="left" alt="eunoia-jason | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="eunoia-jason | Disquiet" width="48px" src="https://disquiet.io/static/media/logo_symbol.908118e7d652d5bd862c86ea0505e739.svg" />][disquiet]
+[<img align="left" alt="eunoia-jason | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+
+[website]: https://velog.io/@jinseo0705
+[linkedin]: https://www.linkedin.com/in/jinseo-kim-51b575262/
+[disquiet]: https://disquiet.io/@eunoia_
+[instagram]: https://www.instagram.com/jjin.json/
