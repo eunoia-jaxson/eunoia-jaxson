@@ -25,7 +25,7 @@
 
 [<img align="left" alt="eunoia-jason | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="eunoia-jason | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="eunoia-jason | Disquiet" width="48px" src="https://disquiet.io/static/media/logo_symbol.908118e7d652d5bd862c86ea0505e739.svg" />][disquiet]
+[<img align="left" alt="eunoia-jason | Disquiet" width="48px" src="https://media.disquiet.io/images/product/thumbnail/33a20baaee7cde30da7a06f262c77972c6ae5821c04823ebfa41864b2e3ea4bc" />][disquiet]
 [<img align="left" alt="eunoia-jason | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
 [website]: https://velog.io/@jinseo0705
