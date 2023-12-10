@@ -15,3 +15,4 @@
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
