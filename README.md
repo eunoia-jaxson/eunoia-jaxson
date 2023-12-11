@@ -10,8 +10,6 @@
 <a href="https://github.com/eunoia-jason"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoia-jason&layout=compact&theme=holi&hide_border=true" /></a>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinseo0705)](https://solved.ac/jinseo0705/)
-
 ### 🛠 Languages and Tools
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> </t>
@@ -41,3 +39,7 @@
 [linkedin]: https://www.linkedin.com/in/jinseo-kim-51b575262/
 [disquiet]: https://disquiet.io/@eunoia_
 [instagram]: https://www.instagram.com/jjin.json/
+
+### 🥉 Algorithms Tier:
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinseo0705)](https://solved.ac/jinseo0705/)
