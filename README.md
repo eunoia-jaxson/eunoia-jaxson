@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATTER.JS-4B5562?style=for-the-badge&logo=Matter.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-23ED8B?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-23ED8B00?style=for-the-badge&logo=Openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/>
