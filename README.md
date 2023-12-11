@@ -10,7 +10,7 @@
 <a href="https://github.com/eunoia-jason"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoia-jason&layout=compact&theme=holi&hide_border=true" /></a>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jinseo0705)](https://solved.ac/jinseo0705)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinseo0705)](https://solved.ac/jinseo0705/)
 
 ### 🛠 Languages and Tools
 
