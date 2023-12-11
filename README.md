@@ -28,21 +28,21 @@
 <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 
-### 📨 Connect with me:
+### 📨 Connect with me
 
 [<img align="left" alt="eunoia-jason | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="eunoia-jason | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="eunoia-jason | Disquiet" width="48px" src="https://media.disquiet.io/images/product/thumbnail/33a20baaee7cde30da7a06f262c77972c6ae5821c04823ebfa41864b2e3ea4bc" />][disquiet]
 [<img align="left" alt="eunoia-jason | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
-<br/>
-<br/>
-
-### 🥉 Algorithms Tier:
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinseo0705)](https://solved.ac/jinseo0705/)
-
 [website]: https://velog.io/@jinseo0705
 [linkedin]: https://www.linkedin.com/in/jinseo-kim-51b575262/
 [disquiet]: https://disquiet.io/@eunoia_
 [instagram]: https://www.instagram.com/jjin.json/
+
+<br/>
+<br/>
+
+### 🥉 Algorithms Tier
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinseo0705)](https://solved.ac/jinseo0705/)
