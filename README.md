@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 
-### Connect with me:
+### 📨 Connect with me:
 
 [<img align="left" alt="eunoia-jason | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="eunoia-jason | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
