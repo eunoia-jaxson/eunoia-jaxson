@@ -43,6 +43,6 @@
 <br/>
 <br/>
 
-### 🥉 Algorithms Tier
+### 🥈 Algorithms Tier
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinseo0705)](https://solved.ac/jinseo0705/)
