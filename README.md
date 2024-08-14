@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=500&height=250&section=header&text=EUNOIA-JASON&desc=JinseoKim's%20github&fontSize=90&descAlign=75&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=500&height=250&section=header&text=EUNOIA-JAXSON&desc=JinseoKim's%20github&fontSize=90&descAlign=75&descAlignY=65)
 
-### 🌈 Welcome to EUNOIA-JASON 👋
+### 🌈 Welcome to EUNOIA-JAXSON 👋
 - 🌱 I’m currently interested in `Front-End`, `ReactJS`
 - 🥅 2023 Goals : Build my own Service `Drop the Ball`
 - ⚡ Fun fact: I love solving Rubik's cubes and have a computer literacy level of 1.
 
 <div style="display: flex; width: 100%; justify-content: space-between;">
-<a href="https://github.com/eunoia-jason"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=eunoia-jason&show_icons=true&include_all_commits=true&theme=holi&hide_border=true" alt="eunoia-jason's github stats" /></a>
-<a href="https://github.com/eunoia-jason"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoia-jason&layout=compact&theme=holi&hide_border=true" /></a>
+<a href="https://github.com/eunoia-jaxson"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=eunoia-jaxson&show_icons=true&include_all_commits=true&theme=holi&hide_border=true" alt="eunoia-jaxson's github stats" /></a>
+<a href="https://github.com/eunoia-jaxson"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoia-jaxson&layout=compact&theme=holi&hide_border=true" /></a>
 </div>
 
 ### 🛠 Languages and Tools
@@ -30,10 +30,10 @@
 
 ### 📨 Connect with me
 
-[<img align="left" alt="eunoia-jason | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="eunoia-jason | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="eunoia-jason | Disquiet" width="48px" src="https://media.disquiet.io/images/product/thumbnail/33a20baaee7cde30da7a06f262c77972c6ae5821c04823ebfa41864b2e3ea4bc" />][disquiet]
-[<img align="left" alt="eunoia-jason | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[<img align="left" alt="eunoia-jaxson | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
+[<img align="left" alt="eunoia-jaxson | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="eunoia-jaxson | Disquiet" width="48px" src="https://media.disquiet.io/images/product/thumbnail/33a20baaee7cde30da7a06f262c77972c6ae5821c04823ebfa41864b2e3ea4bc" />][disquiet]
+[<img align="left" alt="eunoia-jaxson | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
 [website]: https://velog.io/@jinseo0705
 [linkedin]: https://www.linkedin.com/in/jinseo-kim-51b575262/
