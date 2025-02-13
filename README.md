@@ -2,7 +2,7 @@
 
 ### 🌈 Welcome to EUNOIA-JAXSON 👋
 - 🌱 I’m currently interested in `Front-End`, `ReactJS`
-- 🥅 2024 Goals : Pass the `woowacourse`.
+- 🥅 2025 Goals : Pass the `woowacourse`.
 - ⚡ Fun fact: I love solving Rubik's cubes and have a computer literacy level of 1.
 
 <div style="display: flex; width: 100%; justify-content: space-between;">
