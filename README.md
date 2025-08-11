@@ -30,7 +30,7 @@
 
 ### 📨 Connect with me
 
-[![box](https://markdown-box-generator.vercel.app/api/box?title=Jinseo Kim&author=eunoia-jaxson&style=LINKED)][linkedin]
+[![box](https://markdown-box-generator.vercel.app/api/box?title=Jinseo Kim&author=eunoia-jaxson&style=LIINKED)][linkedin]
 [![box](https://markdown-box-generator.vercel.app/api/box?title=eunoia.log&author=eunoia-jaxson&style=DEFAULT)][velog]
 [![box](https://markdown-box-generator.vercel.app/api/box?title=eunoia_&author=eunoia-jaxson&style=DEFAULT)][disquiet]
 [![box](https://markdown-box-generator.vercel.app/api/box?title=jjin.json&author=eunoia-jaxson&style=INSTA)][instagram]
