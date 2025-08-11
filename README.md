@@ -31,11 +31,9 @@
 ### 📨 Connect with me
 
 [![box](https://markdown-box-generator.vercel.app/api/box?title=eunoia.log&author=eunoia-jaxson&style=linked)][linkedin]
-
 [![box](https://markdown-box-generator.vercel.app/api/box?title=eunoia.log&author=eunoia-jaxson&style=default)][velog]
 
 [![box](https://markdown-box-generator.vercel.app/api/box?title=eunoia_&author=eunoia-jaxson&style=default)][disquiet]
-
 [![box](https://markdown-box-generator.vercel.app/api/box?title=jjin.json&author=eunoia-jaxson&style=insta)][instagram]
 
 [velog]: https://velog.io/@jinseo0705
