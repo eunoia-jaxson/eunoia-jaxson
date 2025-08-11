@@ -30,7 +30,7 @@
 
 ### 📨 Connect with me
 
-[![box](https://markdown-box-generator.vercel.app/api/box?title=Jinseo Kim&author=eunoia-jaxson&style=linked)][linkedin]
+[![box](https://markdown-box-generator.vercel.app/api/box?title=eunoia.log&author=eunoia-jaxson&style=linked)][linkedin]
 
 [![box](https://markdown-box-generator.vercel.app/api/box?title=eunoia.log&author=eunoia-jaxson&style=default)][velog]
 
