@@ -30,12 +30,12 @@
 
 ### 📨 Connect with me
 
-[<img align="left" alt="eunoia-jaxson | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="eunoia-jaxson | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="eunoia-jaxson | Disquiet" width="48px" src="https://media.disquiet.io/images/product/thumbnail/33a20baaee7cde30da7a06f262c77972c6ae5821c04823ebfa41864b2e3ea4bc" />][disquiet]
-[<img align="left" alt="eunoia-jaxson | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[![box](https://markdown-box-generator.vercel.app/api/box?title=Jinseo Kim&author=eunoia-jaxson&style=LINKED)][linkedin]
+[![box](https://markdown-box-generator.vercel.app/api/box?title=eunoia.log&author=eunoia-jaxson&style=DEFAULT)][velog]
+[![box](https://markdown-box-generator.vercel.app/api/box?title=eunoia_&author=eunoia-jaxson&style=DEFAULT)][disquiet]
+[![box](https://markdown-box-generator.vercel.app/api/box?title=jjin.json&author=eunoia-jaxson&style=INSTA)][instagram]
 
-[website]: https://velog.io/@jinseo0705
+[velog]: https://velog.io/@jinseo0705
 [linkedin]: https://www.linkedin.com/in/jinseo-kim-51b575262/
 [disquiet]: https://disquiet.io/@eunoia_
 [instagram]: https://www.instagram.com/jjin.json/
