@@ -6,8 +6,12 @@
 - ⚡ Fun fact: I love solving Rubik's cubes and have a computer literacy level of 1.
 
 <div style="display: flex; width: 100%; justify-content: space-between;">
-<a href="https://github.com/eunoia-jaxson"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=eunoia-jaxson&show_icons=true&include_all_commits=true&theme=holi&hide_border=true" alt="eunoia-jaxson's github stats" /></a>
-<a href="https://github.com/eunoia-jaxson"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoia-jaxson&layout=compact&theme=holi&hide_border=true" /></a>
+  <a href="https://github.com/eunoia-jaxson">
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=eunoia-jaxson&show_icons=true&include_all_commits=true&theme=holi&hide_border=true" alt="eunoia-jaxson's github stats" />
+  </a>
+  <a href="https://github.com/eunoia-jaxson">
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoia-jaxson&layout=compact&theme=holi&hide_border=true" />
+  </a>
 </div>
 
 ### 🛠 Languages and Tools
